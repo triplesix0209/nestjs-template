@@ -9,11 +9,7 @@
         ".vscode": true,
         "node_modules": true,
         "package-lock.json": true,
-        "dist": true,
-        ".prettierrc": true,
-        "tsconfig.build.json": true,
-        ".gitignore": true,
-        "nest-cli.json": true
+        "dist": true
     },
     "explorerExclude.backup": {}
 }
